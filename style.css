@@ -3,3 +3,10 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.search input{
+    outline:none;
+    background:rgb(226, 226, 226)
+
+
+}
